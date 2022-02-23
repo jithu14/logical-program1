@@ -1,1 +1,1 @@
-# logical-program1
+# JFM1T2-Exercise1
